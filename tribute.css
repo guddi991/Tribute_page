@@ -1,0 +1,47 @@
+body{
+  background-color: pink;
+  margin: 0;
+  
+}
+h1{
+  font-size: auto;
+  color: teal;
+  font-style:italic;
+}
+h2{
+  
+  border-color:white;
+  border-width:5px;
+  border-height:5px;
+  border-style:solid;
+}
+#img-caption{
+  background-color:white;
+  font-style:italic;
+  color: gray;
+  margin:0;
+  font-size: 20px;
+}
+p{
+  color: teal;
+  font-size: auto;
+  font-style: italic;
+}
+h3{
+  color:teal;
+  font-size: auto;
+  font-style: bold;
+}
+ul{
+  font-size: auto;
+  font-style: italic;
+}
+h4{
+  font-size: auto;
+  font-style: bold;
+  color: blue;
+}
+h5{
+  font-size: auto;
+  font-style: italic;
+}
